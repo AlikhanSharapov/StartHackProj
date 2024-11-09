@@ -1,0 +1,25 @@
+{
+  "courses": {
+    "math161": {
+      "professors": [
+        {
+          "name": "Catalina",
+          "last": "Troshev",
+          "email": "",
+          "office_hours": ""
+        },
+        {
+          "name": "Samat",
+          "last": "Kassabek",
+          "email": "",
+          "office_hours": ""
+        }
+      ],
+      "resources": [
+        "link1",
+        "link2",
+        "link3"
+      ]
+    }
+  }
+}
